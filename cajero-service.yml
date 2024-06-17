@@ -6,7 +6,7 @@ eureka:
     register-with-eureka: true
     #fetch-registry:false
     service-url:
-      defaultzone: http://localhost:8850/eureka/
+      defaultzone: http://localhost:8761/eureka/
 message: Configuracion de cajero en el servidor levantado
 spring:
   datasource:
