@@ -5,4 +5,3 @@ eureka:
     fetch-registry: false
     register-with-eureka: false
 #message: Service de registro y descubrimiento levantado en el servidor!
-  
